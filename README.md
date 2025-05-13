@@ -25,7 +25,7 @@
 
 ## 🧰 Technical Skills
 
-![My Skills](https://skillicons.dev/icons?i=python,java,c,js,nodejs,react,git,linux,make,html,css)
+![My Skills](https://skillicons.dev/icons?i=python,java,c,js,nodejs,react,git,linux,tensorflow,html,css)
 
 - 🔍 Object-oriented design, MVC architecture
 - 📐 Data structures & algorithm complexity
