@@ -1,4 +1,4 @@
-# Gello, I'm Arthur.
+# Hello, I'm Arthur.
 
 I'm a computer engineering student at [ENSSAT Lannion](https://www.enssat.fr), passionate about **coding**, **algorithms**, and everything tech-related. I love building, optimizing, and understanding how systems work.
 
@@ -37,7 +37,7 @@ I'm a computer engineering student at [ENSSAT Lannion](https://www.enssat.fr), p
 
 - [LinkedIn](https://www.linkedin.com/in/arthur-blamart)
 - arthurblamart@gmail.com
-- [Portefolio](https://arthurblamart.fr)
+- [Portfolio](https://arthurblamart.fr)
 
 ---
 
